@@ -1,0 +1,5 @@
+This is homework 1 for Interactive Computer Graphics, by Shangqi Wu. Homework 1 is done on the Ubuntu virtual machine provided by the course. This program is modified from original tar file of OGL_code_tux.tar. The new program will be named as "ICG_hw1", and modified cpp file is named as "ICG_hw1.cpp". 
+
+To run this program, please change command line path to this folder, and type "make" to compile. Executable file will be named as "ICG_hw1". Program will run by typing "./ICG_hw1". 
+
+In this program, the quadrilateral and pentagon are implemented as collections of adjacent triangles. Each polygon has an array of triangle vertices, they are drew by triangles. Buffer object is enlarged, and other part of the code, such like VAO, remain unchanged. 
